@@ -1,0 +1,4 @@
+*.d
+*.o
+hwtstamps
+vmlinux.h
